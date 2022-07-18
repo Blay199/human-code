@@ -1,14 +1,11 @@
 # Scansioniamo insieme
 
-- andare in archivio:
+- andare in archivio                                                      
 - recupero documenti
-- per ogni documento assegno un numero
 - riordino documenti in ordine numerico
 - andare alla fotocopiatrice
 - controllo se è accesa:
-    - SE è accesa:
-        - procedi a scansionare
-    - ALTRIMENTI:
+    - SE è spenta:
         - accendi
 - PER OGNI foglio:
     - scansionare: 
@@ -27,11 +24,7 @@
                     - balletto mentre scansiona
                     - apro sportello
                     - recupero foglio
-                    - premo pulsante "termina scansione"
-                    - procedi a catalogare
-                - ALTRIMENTI:
-                    - premo pulsante "termina scansione"
-                    - procedi a catalogare
+            - premo pulsante "termina scansione"           
     - catalogare:
         - prendo il foglio lo metto nella scatola "file digitalizzati"
     - digitalizzazione:
